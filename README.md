@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Automation of QA Automation, https://www.linkedin.com/in/viktor-urusov-78a0891ab
+
 <!--
 **Viktor-Rus/Viktor-Rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
