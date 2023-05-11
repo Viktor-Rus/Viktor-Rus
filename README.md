@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Automation of QA Automation, https://www.linkedin.com/in/viktor-urusov-78a0891ab
+Automation of QA Automation, [https://www.linkedin.com/in/viktor-urusov-78a0891ab](https://www.linkedin.com/in/viktor-urusov-qa/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viktor-Rus&show_icons=true&theme=radical)
 
